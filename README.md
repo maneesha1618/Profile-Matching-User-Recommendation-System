@@ -55,7 +55,7 @@ To use this application, you need a MongoDB instance running. Follow these steps
 
 5. **Create a .envfile:**
     
-    MONGO_URI=mongodb+srv://freego:freego%2322Monkey@freego-c0.y47x2e3.mongodb.net/user_recommendation?retryWrites=true&w=majority
+    MONGO_URI=################################
     DB_NAME=freego
     COLLECTION_NAME=user_match
     COLLECTION_NAME_OUT=user_match
