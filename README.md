@@ -26,11 +26,7 @@ This User Recommendation System is designed to analyze user data, calculate simi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://gitlab.com/anseljanson/candidate_interviewer_recommendation.git
-   cd <repository-directory>
-   git remote add origin https://gitlab.com/anseljanson/candidate_interviewer_recommendation.git
-   git branch -M main
-   git push -uf origin main
+   ###
    ```
 2. **Create a virtual environment (optional but recommended):**
 
