@@ -1,6 +1,6 @@
 # Skill RAG Clustering
 
-The previous code before converting into template method (as per instructions given in the last review) is in the branch (maneesha_user)
+
 
 ## Overview
 
