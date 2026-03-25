@@ -53,7 +53,7 @@ Skill RAG Clustering is designed to analyze user data, calculate similarity scor
                 mongodb
 
 5. Create a .envfile:
-        MONGO_URI=mongodb+srv://freego:freego%2322Monkey@freego-c0.y47x2e3.mongodb.net/user_recommendation?retryWrites=true&w=majority
+        MONGO_URI=  paste mongo url here
         DB_NAME=skill_rag_clustering
         COLLECTION_NAME=modified_data
         COLLECTION_NAME_OUT=modified_out
